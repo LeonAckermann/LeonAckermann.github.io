@@ -6,11 +6,15 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  {::comment}
   - title: "Teaching"
     url: /teaching/    
+  {:/comment}
     
+  {::comment}
   - title: "Portfolio"
     url: /portfolio/
+  {:/comment}
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -18,5 +22,7 @@ main:
   - title: "CV"
     url: /cv/
     
+  {::comment}
   - title: "Guide"
     url: /markdown/
+  {:/comment}
