@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Cognitive Science, Osnabrueck University, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 09/20-12/20: VR Developer Intern, LobVR
+* 03/22-09/22: Cybersecurity Intern, Digimind
+* 10/22-09/23: Cybersecurity Working Student, P3 Group
+* 10/23-03/24: Machine Learning Research Intern, Ablemind
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C++, Java, CSS, SQL
+* Deep Learning Frameworks: PyTorch, TensorFlow
+* Languages: German (native), English (fluent), French (fluent), Swedish (basic)
 
 Publications
 ======
