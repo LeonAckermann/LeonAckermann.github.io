@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 Hello, welcome to my page!
-My name is Leon Ackermann and I am a Bachelor student in Cognitive Science at the University of Osnabrueck.
-As of right now I am working on several projects in the field of Machine Learning and Deep Learning.
-My main focus is on the Interpretability and Adversarial Robustness of Transformer-based Language Models.
-Moreover, I am interested in how Machine Learning can be used to solve problems in the fields of Neuroscience and Psychology.
+My name is Leon Ackermann and I am pursuing a Master's in Computational Science at Università della Svizzera Italiana and Sorbonne Universitè as part of EUMaster4HPC scholarship with a focus on Machine Learning (ML) and High-Performance Computing (HPC). My Bachelor's in Cognitive Science equipped me with a unique interdisciplinary perspective and led to publications at COLING and NeurIPS on the interpretability of LLMs. I am passionate about ameliorating and uniting my knowledge in ML and computational methods to understand and tackle data-driven scientific problems in my future research.
 
-Currently, I'm a Machine Learning Research Intern at the Harmony Lab which is part of Lund University and Ablemind. There, I'm working on the project "Levering the power of topic models for mental health research" under the supervision of Dr. Oscar Kjiell. 
-
-Next to my work, I enjoy playing the piano, reading books and doing sports. I'm also a big fan of living in a foreign country to learn the language and experience the culture. 
+In my non academic time I go hiking as much as possible and enjoy exploring new places. Also I love learning languages, at the time I'm getting into Italian. Currently, I'm learning more about Stoicism and how to apply the philosophy to my daily life.
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
